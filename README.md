@@ -7,7 +7,7 @@ Chowlk is ontology conversion tool based on drawio. It provides a [library](http
 By using the Chowlk library in drawio, users can create ontologies graphically, which is a more intuitive way. These plots can then be converted to owl or turtle files using [Chowlk Convertor](https://chowlk.linkeddata.es/) .
 
 ### Use drawio plugin for easier life
-[The drawio plugin demo](https://github.com/yuechenbam/yuechenbam.github.io) is created by the author to simplify the work. If users want to use some upper-level ontologies, then they can import them in the drawio plugin and use them directly. This way, the user does not need to manually type names or check the details of entities elsewhere.  
+[The drawio plugin demo](https://github.com/yuechenbam/yuechenbam.github.io) is created by the author to simplify the work. If users want to use some upper-level ontologies, then they can import these ontologies in the drawio plugin. The plugin can display the details of entities and export them in the drawing to save time and workload.
 By clicking the [drawio interface](https://github.com/yuechenbam/yuechenbam.github.io), users can draw ontologies with this plugin directly.
 
 ### Example of Brinell hardness 
